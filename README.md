@@ -10,5 +10,3 @@ Goal :  Social media has been an important platform for opinions and discussion.
 2.	Cleaned the data to find the top brands being talked about based on their frequency in the discussions and plotted an MDS map based on lift values.  
 3.	Further, we tried to understand which are the top attributes are being discussed about and also about which these attributes are the top brands associated with and talked about.
 
-### Insights :
-
